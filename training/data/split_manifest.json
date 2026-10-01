@@ -1,0 +1,326 @@
+[
+  {
+    "family": "teach-27",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Exposition, scraping, and querying"
+  },
+  {
+    "family": "teach-5",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Bytes, MiB, and GiB"
+  },
+  {
+    "family": "teach-11",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain A sample is an observation, not a diagnosis"
+  },
+  {
+    "family": "teach-16",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Temperature and clock behavior"
+  },
+  {
+    "family": "teach-26",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain MIG and sharing are different designs"
+  },
+  {
+    "family": "teach-12",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Utilization is not success"
+  },
+  {
+    "family": "teach-20",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Isolation and evidence before disruption"
+  },
+  {
+    "family": "teach-15",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Power and energy"
+  },
+  {
+    "family": "teach-10",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Memory used and total need compatible units"
+  },
+  {
+    "family": "teach-14",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Measure throughput and latency separately"
+  },
+  {
+    "family": "teach-19",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain ECC and other health evidence"
+  },
+  {
+    "family": "teach-22",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Model parallelism partitions state or work"
+  },
+  {
+    "family": "teach-9",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain DCGM and its exporter"
+  },
+  {
+    "family": "teach-29",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Alerts include collection quality"
+  },
+  {
+    "family": "teach-24",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Nodes, Pods, and the scheduler"
+  },
+  {
+    "family": "teach-6",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Inference has more than weights"
+  },
+  {
+    "family": "teach-25",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Whole-GPU resource declarations"
+  },
+  {
+    "family": "teach-0",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain A CPU and GPU do different kinds of work"
+  },
+  {
+    "family": "teach-31",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain A response includes verification"
+  },
+  {
+    "family": "teach-13",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Find an input-starved GPU"
+  },
+  {
+    "family": "teach-18",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain An XID value is an error identifier"
+  },
+  {
+    "family": "teach-2",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain The complete server still matters"
+  },
+  {
+    "family": "teach-17",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Cooling belongs to the physical system"
+  },
+  {
+    "family": "teach-21",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Data parallelism replicates work state"
+  },
+  {
+    "family": "teach-3",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain GPU memory is a capacity constraint"
+  },
+  {
+    "family": "teach-30",
+    "split": "train",
+    "label": "teach",
+    "seed": "Explain Classify the pressure from evidence"
+  },
+  {
+    "family": "teach-4",
+    "split": "validation",
+    "label": "teach",
+    "seed": "Explain Parameters and bytes per parameter"
+  },
+  {
+    "family": "teach-28",
+    "split": "validation",
+    "label": "teach",
+    "seed": "Explain Codes, gauges, counters, and labels"
+  },
+  {
+    "family": "teach-32",
+    "split": "validation",
+    "label": "teach",
+    "seed": "Explain Your three-course operational picture"
+  },
+  {
+    "family": "teach-8",
+    "split": "validation",
+    "label": "teach",
+    "seed": "Explain Training adds other state"
+  },
+  {
+    "family": "teach-23",
+    "split": "validation",
+    "label": "teach",
+    "seed": "Explain Interconnects can determine the tradeoff"
+  },
+  {
+    "family": "teach-1",
+    "split": "validation",
+    "label": "teach",
+    "seed": "Explain A kernel, a workload, and a result"
+  },
+  {
+    "family": "teach-7",
+    "split": "validation",
+    "label": "teach",
+    "seed": "Explain Batching trades memory and behavior"
+  },
+  {
+    "family": "lab-9",
+    "split": "train",
+    "label": "lab",
+    "seed": "Help interpret my lab evidence for Prometheus metrics and trustworthy alerts"
+  },
+  {
+    "family": "lab-3",
+    "split": "train",
+    "label": "lab",
+    "seed": "Help interpret my lab evidence for Read GPU telemetry"
+  },
+  {
+    "family": "lab-10",
+    "split": "train",
+    "label": "lab",
+    "seed": "Help interpret my lab evidence for An AI-infrastructure incident"
+  },
+  {
+    "family": "lab-8",
+    "split": "train",
+    "label": "lab",
+    "seed": "Help interpret my lab evidence for GPU scheduling and isolation"
+  },
+  {
+    "family": "lab-0",
+    "split": "train",
+    "label": "lab",
+    "seed": "Help interpret my lab evidence for Meet the CPU and GPU"
+  },
+  {
+    "family": "lab-7",
+    "split": "train",
+    "label": "lab",
+    "seed": "Help interpret my lab evidence for Multiple GPUs and communication"
+  },
+  {
+    "family": "lab-1",
+    "split": "train",
+    "label": "lab",
+    "seed": "Help interpret my lab evidence for VRAM, model weights, and precision"
+  },
+  {
+    "family": "lab-2",
+    "split": "train",
+    "label": "lab",
+    "seed": "Help interpret my lab evidence for Why a model can still run out of memory"
+  },
+  {
+    "family": "lab-4",
+    "split": "validation",
+    "label": "lab",
+    "seed": "Help interpret my lab evidence for Utilization, throughput, and latency"
+  },
+  {
+    "family": "lab-5",
+    "split": "validation",
+    "label": "lab",
+    "seed": "Help interpret my lab evidence for Power, heat, and clock changes"
+  },
+  {
+    "family": "lab-6",
+    "split": "validation",
+    "label": "lab",
+    "seed": "Help interpret my lab evidence for GPU errors and evidence preservation"
+  },
+  {
+    "family": "clarify-2",
+    "split": "train",
+    "label": "clarify",
+    "seed": "Fix it"
+  },
+  {
+    "family": "clarify-7",
+    "split": "train",
+    "label": "clarify",
+    "seed": "Help"
+  },
+  {
+    "family": "clarify-1",
+    "split": "train",
+    "label": "clarify",
+    "seed": "What does that mean?"
+  },
+  {
+    "family": "clarify-8",
+    "split": "train",
+    "label": "clarify",
+    "seed": "What about it?"
+  },
+  {
+    "family": "clarify-3",
+    "split": "train",
+    "label": "clarify",
+    "seed": "Tell me something"
+  },
+  {
+    "family": "clarify-0",
+    "split": "train",
+    "label": "clarify",
+    "seed": "Explain the thing"
+  },
+  {
+    "family": "clarify-6",
+    "split": "train",
+    "label": "clarify",
+    "seed": "Go on"
+  },
+  {
+    "family": "clarify-4",
+    "split": "train",
+    "label": "clarify",
+    "seed": "Which one should I use?"
+  },
+  {
+    "family": "clarify-9",
+    "split": "validation",
+    "label": "clarify",
+    "seed": "Do that"
+  },
+  {
+    "family": "clarify-5",
+    "split": "validation",
+    "label": "clarify",
+    "seed": "I am lost"
+  }
+]

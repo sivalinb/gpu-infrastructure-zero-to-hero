@@ -1,0 +1,470 @@
+[
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain Parameters and bytes per parameter"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please help: Explain Parameters and bytes per parameter"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I am learning this course. Explain Parameters and bytes per parameter"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain Codes, gauges, counters, and labels"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please help: Explain Codes, gauges, counters, and labels"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I am learning this course. Explain Codes, gauges, counters, and labels"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain Your three-course operational picture"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please help: Explain Your three-course operational picture"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I am learning this course. Explain Your three-course operational picture"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain Training adds other state"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please help: Explain Training adds other state"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I am learning this course. Explain Training adds other state"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain Interconnects can determine the tradeoff"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please help: Explain Interconnects can determine the tradeoff"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I am learning this course. Explain Interconnects can determine the tradeoff"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain A kernel, a workload, and a result"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please help: Explain A kernel, a workload, and a result"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I am learning this course. Explain A kernel, a workload, and a result"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Explain Batching trades memory and behavior"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please help: Explain Batching trades memory and behavior"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I am learning this course. Explain Batching trades memory and behavior"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"teach\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help interpret my lab evidence for Utilization, throughput, and latency"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"lab\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please help: Help interpret my lab evidence for Utilization, throughput, and latency"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"lab\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I am learning this course. Help interpret my lab evidence for Utilization, throughput, and latency"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"lab\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help interpret my lab evidence for Power, heat, and clock changes"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"lab\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please help: Help interpret my lab evidence for Power, heat, and clock changes"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"lab\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I am learning this course. Help interpret my lab evidence for Power, heat, and clock changes"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"lab\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help interpret my lab evidence for GPU errors and evidence preservation"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"lab\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please help: Help interpret my lab evidence for GPU errors and evidence preservation"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"lab\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I am learning this course. Help interpret my lab evidence for GPU errors and evidence preservation"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"lab\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do that"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"clarify\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please help: Do that"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"clarify\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I am learning this course. Do that"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"clarify\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I am lost"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"clarify\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please help: I am lost"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"clarify\"}"
+      }
+    ]
+  },
+  {
+    "system": "Classify a course question. Return JSON {\"intent\":\"teach|lab|clarify\"}. Do not answer or perform actions.",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I am learning this course. I am lost"
+      },
+      {
+        "from": "gpt",
+        "value": "{\"intent\": \"clarify\"}"
+      }
+    ]
+  }
+]
